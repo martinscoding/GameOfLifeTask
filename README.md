@@ -53,8 +53,8 @@ as well as how simple rules can lead to complex patterns in computational system
 - IntelliJ IDEA (development environment)
 
 ### Author
-Construct was created by **Aleksander Travanov**
-Projekt was finished by **Martin Vitcov**
+Construct was created by **Aleksander Travanov** and finished by **Martin Vitcov**
+
 
 ---
 
@@ -74,8 +74,8 @@ und zu erkennen, wie einfache Regeln zu komplexem Verhalten in Systemen führen 
 - IntelliJ IDEA (Entwicklungsumgebung)
 
 ### Autor
-Konstrukt erstellt von **Aleksander Travanov**
-Fertigstellung durch **Martin Vitcov**
+Konstrukt erstellt von **Aleksander Travanov** und Fertigstellung durch **Martin Vitcov**
+
 
 
 
