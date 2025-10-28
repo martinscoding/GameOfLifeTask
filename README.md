@@ -34,7 +34,7 @@ A Java implementation of **Conway’s Game of Life**, created to explore object-
 
 ## Preview
 
-![Game Of Life Preview](./gol_preview.png)
+![Game Of Life Preview](gol_preview.png)
 
 ---
 
