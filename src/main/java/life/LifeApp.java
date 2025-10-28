@@ -40,7 +40,7 @@ public class LifeApp implements Runnable {
         frame.add(gameBoard); // Fügt das Spielfeld zum Fenster hinzu
         frame.pack(); // Passt die Größe des Fensters an das Spielfeld an
         frame.setFocusable(true); // Erlaubt Fokus, wichtig für Tastatureingaben
-        frame.setVisible(true); // Macht das Fenster sichtbar
+         frame.setVisible(true); // Macht das Fenster sichtbar
         frame.setLocationRelativeTo(null); // Zentriert das Fenster auf dem Bildschirm
     }
 }
